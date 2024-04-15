@@ -1,0 +1,137 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  gap: 35px;
+  position: fixed;
+  margin-top: 44px;
+  margin-left: 120px;
+  margin-right: 120px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  color: #1e1928;
+  width: 512px;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+}
+.main-boxes h1 p {
+  color: #1e1928;
+  width: 576px;
+  height: 90px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+}
+.main-boxes {
+  position: relative;
+  margin-top: 80px;
+}
+button {
+  margin-top: 64px;
+  border-radius: 9.999px;
+  width: 300px;
+  height: 36px;
+  top: 24px;
+  background: #fff;
+  align-items: center;
+}
+.btn-2 {
+  line-height: 20px;
+  font-size: 18px;
+  font-weight: 400;
+  width: 179px;
+  height: 36px;
+}
+.main-box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 120px;
+}
+.logo_img {
+  margin-top: 62px;
+  width: 404px;
+  margin-right: 123px;
+  margin-left: 217px;
+}
+.global {
+  background: #fff;
+}
+.main_img {
+  background-image: url("./Mars.jpg");
+  width: 1200px;
+  height: 380px;
+
+}
+.main-container {
+  margin-left: 121px;
+}
+.bg-img-h1 {
+  margin-top: 80px;
+  text-align: center;
+  margin-left: 503px;
+  font-size: 32px;
+  width: 244px;
+  font-weight: 700;
+  color: #fff;
+  line-height: 42px;
+}
+.bg-img-p {
+  width: 653px;
+  height: 90px;
+  margin-left: 263px;
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 30px;
+  margin-top: 28px;
+}
+.bg-img-btn {
+  margin-left: 528px;
+  width: 153px;
+  border: 1px solid #fff;
+  border-radius: 9,999px;
+  color: #fff;
+  text-align: center;
+background:transparent
+}
+h2 {
+font-size: 64px;
+font-weight: 700;
+line-height: 30px;
+margin-left: 120px;
+margin-top: 80px;
+width: 600px;
+}
+h3 {
+  margin-left: 784px;
+
+  margin-top: 8px;
+  
+}
+.hero-p {
+  margin-left: 784px;
+  height: 48px;
+  margin-top: 8px;
+  width: 502px;
+}
+
+h4 {
+  margin-left: 784px;
+
+  margin-top: 48px;
+  
+}
+.hero-2-p {
+  margin-top: 8px;
+  margin-left: 784px;
+  width: 490px;
+}
